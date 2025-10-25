@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm BlueE-05!
 
-<!--
-**BlueE-05/BlueE-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **open-source projects** and exploring **web development**.
+- 🌱 I’m currently learning **React**, **TypeScript**, and **Node.js**.
+- 👯 I’m looking to collaborate on **innovative web applications**.
+- 🤔 I’m looking for help with **advanced backend development**.
+- 💬 Ask me about **JavaScript**, **CSS**, and **UI/UX design**.
+- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile)
+- 😄 Pronouns: **They/Them**
+- ⚡ Fun fact: I love **gaming** and **digital art**!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlueE-05&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueE-05&layout=compact&theme=radical)
