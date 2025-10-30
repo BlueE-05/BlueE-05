@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://octodex.github.com/images/mona-lovelace.jpg" alt="Mona Lovelace" width="250"/>
+  <img src="https://octodex.github.com/images/mona-lovelace.jpg" alt="Mona Lovelace" width="180"/>
 
   <div>
    <h1>Hiii ;) I'm BlueE-05!</h2>
