@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://octodex.github.com/images/mona-lovelace.jpg" alt="Mona Lovelace" width="40%" style="border-radius: 10px; margin-right: 1.5rem;"/>
+  <img src="https://octodex.github.com/images/mona-lovelace.jpg" alt="Mona Lovelace" width="250" style="border-radius: 10px; margin-right: 1rem;"/>
 
   <div>
    <h1>Hiii ;) I'm BlueE-05!</h2>
@@ -39,10 +39,12 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=BlueE-05&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height:350; min-height:150; margin: 1vw;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BlueE-05&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height:180; margin: 0.5rem;"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueE-05&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height:350; min-height:150; margin: 1vw;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueE-05&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height:180; margin: 0.5rem;"/>
+
+
 </div>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=BlueE-05&theme=nightowl&hide_border=true" alt="GitHub Streak Stats" style="height:350; min-height:150;"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=BlueE-05&theme=nightowl&hide_border=true" alt="GitHub Streak Stats" height="180"/>
 </div>
