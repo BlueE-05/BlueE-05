@@ -1,8 +1,8 @@
 <div align="center">
 
-<table border="none">
-  <tr border="none">
-    <td border="0">
+<table>
+  <tr>
+    <td>
       <img src="https://octodex.github.com/images/mona-lovelace.jpg" alt="Mona Lovelace" width="250" style="border-radius: 10px;"/>
     </td>
     <td>
