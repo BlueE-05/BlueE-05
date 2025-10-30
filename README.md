@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://octodex.github.com/images/mona-lovelace.jpg" alt="Mona Lovelace" width="250" style="border-radius: 10px;"/>
     </td>
-    <td>
+    <td style="border: none;">
       <h1 align="center">Hiii ;) I'm BlueE-05!</h1>
       <p align="center">
         <a href="https://www.linkedin.com/in/dana-elizabeth-torres-estrada-b20b2b329/" target="_blank">
